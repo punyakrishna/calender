@@ -1,0 +1,27 @@
+:root {
+
+  --header-height: 90px;
+
+  --white-color: #ffffff;
+
+  --primary-black-color: #000000;
+  --secondary-black-color: #616777;
+}
+
+body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+  height: 100vh;
+  width: 100%;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
+
+#root {
+  height: 100%;
+}
